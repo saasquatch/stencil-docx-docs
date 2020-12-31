@@ -28,7 +28,7 @@ const defaultOptions: GenerateDocxOptions = {
   textFont: "Calibri",
   excludeTags: ["undocumented"],
   title: "Component Documentation",
-  author: "SaaSquatch",
+  author: "stencil-docx-docs",
 };
 
 //const portraitPageWidth = 9638;
