@@ -7,13 +7,12 @@
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
   "types": "dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "np",
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "",
   "repository": {
@@ -30,6 +29,7 @@
     "docx": "^5.4.1"
   },
   "devDependencies": {
-    "microbundle": "^0.13.0"
+    "microbundle": "^0.13.0",
+    "np": "^7.2.0"
   }
 }
