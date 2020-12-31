@@ -1,6 +1,6 @@
 {
   "name": "stencil-docx-docs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Stencil Word .docx component documentation generator",
   "source": "src/index.ts",
   "main": "dist/index.js",
