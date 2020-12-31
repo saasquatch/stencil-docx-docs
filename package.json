@@ -13,7 +13,7 @@
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch",
-    "publish": "np",
+    "release": "np",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "",
