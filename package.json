@@ -26,11 +26,10 @@
   },
   "homepage": "https://github.com/saasquatch/stencil-docx-docs#readme",
   "dependencies": {
-    "@stencil/core": "^2.3.0",
+    "@stencil/core": "^1.17.4",
     "docx": "^5.4.1"
   },
   "devDependencies": {
-    "microbundle": "^0.13.0",
-    "typescript": "^4.1.3"
+    "microbundle": "^0.13.0"
   }
 }
